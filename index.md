@@ -8,7 +8,9 @@ Software Engineer
 <div id="webaddress">
   <i class="fas fa-envelope"></i>&nbsp;<a href="mailto:cv@jover.net">cv@jover.net</a> |
   <i class="fab fa-github"></i>&nbsp;<a href="https://github.com/joverthegrey">joverthegrey</a> |
-  <i class="fab fa-keybase"></i>&nbsp;<a href="https://keybase.io/jover">jover</a>
+  <i class="fab fa-keybase"></i>&nbsp;<a href="https://keybase.io/jover">jover</a> |
+  <i class="fas fa-key"></i>&nbsp;<a href="https://keybase.io/jover/pgp_keys.asc?fingerprint=265729857ba0971e69a7023d8ce50282d0e5148a">8CE5 0282 D0E5 148A</a>
+
 </div>
 
 
@@ -87,6 +89,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: 5 Nov 2020 18:00-->
+Last updated: 5 Nov 2020 18:05-->
 
 
