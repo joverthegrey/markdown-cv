@@ -3,7 +3,7 @@ layout: cv
 title: Joost Vermeulen
 ---
 # Joost Vermeulen
-Physicist, Mathematician, Cambridge professor.
+Software Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
