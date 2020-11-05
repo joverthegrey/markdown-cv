@@ -7,7 +7,7 @@ Software Engineer
 
 <div id="webaddress">
   <i class="fas fa-envelope"></i>&nbsp;<a href="mailto:cv@jover.net">isaac@applesdofall.org</a>
-  | <i class="fab fa-github"></i>&nbsp;<a href="http://github.com/joverthegrey">joverthegrey</a>
+  <i class="fab fa-github"></i>&nbsp;<a href="http://github.com/joverthegrey">joverthegrey</a>
 </div>
 
 
