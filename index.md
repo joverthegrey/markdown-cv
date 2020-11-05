@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joost Vermeulen
 ---
-# Isaac Newton
+# Joost Vermeulen
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
