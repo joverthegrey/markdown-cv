@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: Nov 2020 -->
+Last updated: 5 Nov 2020 -->
 
 
