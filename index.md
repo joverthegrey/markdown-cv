@@ -7,7 +7,8 @@ Software Engineer
 
 <div id="webaddress">
   <i class="fas fa-envelope"></i>&nbsp;<a href="mailto:cv@jover.net">cv@jover.net</a>
-  <i class="fab fa-github"></i>&nbsp;<a href="http://github.com/joverthegrey">joverthegrey</a>
+  <i class="fab fa-github"></i>&nbsp;<a href="https://github.com/joverthegrey">joverthegrey</a>
+  <i class="fab fa-keybase"></i>&nbsp;<a href="https://keybase.io/jover">jover</a>
 </div>
 
 
